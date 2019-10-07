@@ -9,8 +9,8 @@ Run elasticsearch in docker
 
 ### Install curl to send request 
 
-```apt update && sudo apt upgrade```
-```sudo apt install curl```
+- ```apt update && sudo apt upgrade```
+- ```sudo apt install curl```
 
 ### Example of request with a json file
 
